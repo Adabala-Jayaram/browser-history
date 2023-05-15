@@ -1,0 +1,39 @@
+.history-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 8px;
+}
+.history-time {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+  width: 100px;
+}
+.history-item-logo {
+  width: 25px;
+  height: 20px;
+  margin-right: 10px;
+}
+.history-item-name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-right: 8px;
+}
+.website-url {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #64748b;
+}
+.delete-icon {
+  width: 20px;
+  height: 20px;
+}
+.history-item-sec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-width: 70%;
+}
